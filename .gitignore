@@ -1,0 +1,5 @@
+*.o
+*.d
+agent
+nic_timeline_i40e
+nic_timeline_ixgbe
